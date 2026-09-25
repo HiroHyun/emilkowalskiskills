@@ -1,0 +1,57 @@
+AGENTS.md
+  s_70b9a82f00a3e1::t_083e15690680d9 1-16
+FORK.md
+  s_70b9a82f00a3e1::t_083e15690680d9 1-41
+skills/animation-vocabulary/SKILL.md
+  s_70b9a82f00a3e1::t_c898dbf6107f96 3
+skills/apple-design/SKILL.md
+  s_70b9a82f00a3e1::t_68f7d99923b53e 3
+skills/emil-design-eng/SKILL.md
+  s_70b9a82f00a3e1::t_57e11db758790f 3,6,8,10,12-20,22,24-28,30,32,34-40
+skills/emil-design-eng/references/animation-motion.md
+  s_70b9a82f00a3e1::t_61fd2aa810183c 1-157
+skills/emil-design-eng/references/components.md
+  s_70b9a82f00a3e1::t_2d5d5725209eca 1-151
+skills/emil-design-eng/references/gestures.md
+  s_70b9a82f00a3e1::t_5d16568c954e2e 1-31
+skills/emil-design-eng/references/performance-accessibility.md
+  s_70b9a82f00a3e1::t_7aa46436fb2d47 1-65
+skills/emil-design-eng/references/review.md
+  s_70b9a82f00a3e1::t_7e28a3644a0700 1-16
+skills/find-animation-opportunities/SKILL.md
+  s_70b9a82f00a3e1::t_0706dbabd8f4fd 3,18,128
+skills/improve-animations/SKILL.md
+  s_70b9a82f00a3e1::t_3671979d015931 3,6,8,10,12-15,17,19,21,23,25,27,29,31,33
+skills/pick-ui-library/SKILL.md
+  s_70b9a82f00a3e1::t_942228c4738d77 3
+skills/pick-ui-library/agents/openai.yaml
+  s_70b9a82f00a3e1::t_fc69cf9538baff 1-2
+skills/prototype/LOGIC.md
+  s_70b9a82f00a3e1::t_01e535d5ec5223 1-79
+skills/prototype/SKILL.md
+  s_70b9a82f00a3e1::t_880446d95ec702 3,6,8,10,12,14-15,17,19,21-26
+skills/prototype/UI.md
+  s_70b9a82f00a3e1::t_eb43d5e79c90f0 1-112
+skills/prototype/agents/openai.yaml
+  s_70b9a82f00a3e1::t_9637b396159d1a 1-3
+skills/review-animations/SKILL.md
+  s_70b9a82f00a3e1::t_0f873cef3e72e2 3
+skills/review-animations/agents/openai.yaml
+  s_70b9a82f00a3e1::t_cee4c13f47c610 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "09d2147898ce29fb7d462826301382281b078108",
+  "prompts": {},
+  "sessions": {
+    "s_70b9a82f00a3e1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d80c-b883-7692-a75d-abdee54e2232",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "HiroHyun <92624592+HiroHyun@users.noreply.github.com>"
+    }
+  }
+}
