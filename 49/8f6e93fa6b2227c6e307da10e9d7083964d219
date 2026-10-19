@@ -1,0 +1,25 @@
+README.md
+  s_cb94af5ce39751::t_346491691715d5 50,57
+skills/animation-performance/SKILL.md
+  s_cb94af5ce39751::t_1908f37ca4d5e7 1-222
+skills/break-ui/CATALOG.md
+  s_cb94af5ce39751::t_55425a3df7afc3 1-135
+skills/break-ui/SKILL.md
+  s_cb94af5ce39751::t_8109188d3beb8e 1-175
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "498f6e93fa6b2227c6e307da10e9d7083964d219",
+  "prompts": {},
+  "sessions": {
+    "s_cb94af5ce39751": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1524c-4aef-7540-9b52-9107d756037e",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "HiroHyun <92624592+HiroHyun@users.noreply.github.com>"
+    }
+  }
+}
